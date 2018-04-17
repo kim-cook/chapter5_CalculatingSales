@@ -1,4 +1,4 @@
-Calculating Sales Application
+Calculating Sales Java Application
 
 An online retailer sells five products whose retail prices are as follows: Product 1, $2.98; product 2, $4.50; product 3, $9.98; product 4, $4.49 and product 5, $6.87. Write an application that reads a series of pairs of numbers as follows:
 
